@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](https://github.com/algonacci/BMI_App/blob/main/ezgif-2-7e16f3b820.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
